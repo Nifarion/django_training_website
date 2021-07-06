@@ -3,6 +3,7 @@
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
 ### Django ###
+### Test ###
 *.log
 *.pot
 *.pyc
